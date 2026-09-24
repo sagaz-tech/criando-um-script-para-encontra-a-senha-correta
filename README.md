@@ -10,4 +10,4 @@ Este projeto foi desenvolvido para estudos de cibersegurança e desafios CTF aut
 - Documentação do Python — https://docs.python.org/3/
 - Biblioteca usada — https://docs.python.org/3/library/hashlib.html
 
-Autor: sagaz-tech
+Autor: sagaz-tech| Estudante de Cibersegurança
