@@ -1,7 +1,13 @@
-# criando-um-script-para-encontra-a-senha-correta
-Este projeto foi desenvolvido para estudos de cibersegurança e desafios CTF autorizados.  - Não utilize este código para acessar sistemas sem autorização - O uso indevido é de total responsabilidade do usuário - Testes apenas em ambientes de laboratório controlados  O autor não se responsabiliza por qualquer uso indevido.
+Este projeto foi desenvolvido para estudos de cibersegurança e desafios CTF autorizados.
 
+### ⚠️ Aviso Ético
+- Não utilize este código para acessar sistemas sem autorização
+- O uso indevido é de total responsabilidade do usuário
+- Teste apenas em ambientes de laboratório controlados
+- O autor não se responsabiliza por qualquer uso indevido
+
+### 📚 Referências
 - Documentação do Python — https://docs.python.org/3/
-- Biblioteca usada https://docs.python.org/3/library/hashlib.html
+- Biblioteca usada — https://docs.python.org/3/library/hashlib.html
 
-Autor: sagaz-tech 
+Autor: sagaz-tech
